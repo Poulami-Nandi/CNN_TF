@@ -64,7 +64,7 @@ print('Number of features:',n_features)
 n_classes = len(np.unique(y))
 print('Number of classes:', n_classes)
 
-"""#### Step 4A: Define the model
+"""#### Step 4A: Define the CNN model
 
 **`CNN:`Convoluted Neural Network**
 
